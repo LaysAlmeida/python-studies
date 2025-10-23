@@ -1,0 +1,10 @@
+name = input("Digite o nome do jogo:\n")
+yearLaunch = int(input("Digite o ano de lançamento: \n"))
+gamePrice = float(input("Digite o valor do jogo: "))
+supportMobileDevice = input("O jogo roda em dipositivos mobile(Tablet, Smartphone)? \n")
+
+print("-------")
+print(name)
+print(yearLaunch)
+print(gamePrice)
+print(supportMobileDevice)
