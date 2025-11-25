@@ -26,6 +26,5 @@ print(math.sqrt(64))
 mdc = math.gcd(50, 100)
 print(mdc)
 
-
 #8 - Logaritmo
 print(math.log(10))
